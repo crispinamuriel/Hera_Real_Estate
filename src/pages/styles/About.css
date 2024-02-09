@@ -1,0 +1,32 @@
+.img {
+  width: 500px;
+  height: 800px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.marginAll {
+  margin: 4em;
+}
+
+@media only screen and (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+  .img {
+    width: auto;
+    height: auto;
+  }
+  .content {
+    margin-top: 0px;
+  }
+}
+
+.content {
+  margin-top: 2.6em;
+}
+
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+}
