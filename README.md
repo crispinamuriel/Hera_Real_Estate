@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Hera Real Estate Company
+
+This maraketing website shows off some premium real estate in SF using React, HTML, and Custom CSS.
+
+## Developed with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
